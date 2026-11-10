@@ -1,4 +1,4 @@
-# TestQua31 Appium Project
+# TestQua Appium Project
 
 ## Project Overview
 This project demonstrates **automated mobile testing** using Appium and Python.  
