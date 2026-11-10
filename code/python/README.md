@@ -15,4 +15,4 @@ It contains test scripts for the **Google Calculator app** on an Android emulato
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YourUsername/TestQua31-Appium.git
+   git clone https://github.com/aenyxia/TestQua31-Appium.git
